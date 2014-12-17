@@ -1,1 +1,1 @@
-hist(rnorm(5000), main = 'Basic hitogram')
+hist(rnorm(5000), main = 'Basic histogram')
