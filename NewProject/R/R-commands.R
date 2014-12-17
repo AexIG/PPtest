@@ -1,0 +1,2 @@
+library(ca)
+data(author)
