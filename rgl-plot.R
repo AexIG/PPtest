@@ -1,0 +1,2 @@
+library(rgl)
+demo(rgl)
